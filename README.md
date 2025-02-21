@@ -1,1 +1,1 @@
-## Contribution\nMerci de soumettre vos suggestions directement via une pull request.
+## Contribution\n- Pour contribuer, veuillez créer une branche.\n- Envoyez une pull request après modification.
